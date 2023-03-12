@@ -1,0 +1,5 @@
+4
+test_bonus/in1.txt
+test_bonus/in2.txt
+test_bonus/in3.txt
+test_bonus/in4.txt
